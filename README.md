@@ -6,7 +6,7 @@ Code for a discord bot that will paste a discord message to a landscape image to
 - - Currently all images have been set to be 1200x625 (16:9), this can be changed by modifying the ``imgWidth`` and ``imgHeight`` variables if a different ratio is desired, you will also likely have to modify the font size and the number of characters in the ``textwrap`` function as well if you do this
 
 
-## Commands
+## Commandsg
 - ``!quoteW``: creates an inspirational quote image in black text
 - ``!quoteB``: creates an inspirational quote image in black text
 - ``!quote``: creates an inspirational quote image in black text
