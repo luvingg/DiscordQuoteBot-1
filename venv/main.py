@@ -7,7 +7,7 @@ from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFont
 
-token = "MTM2Njc4NjQxMzYyMTkzNjE2MA.GRl3HQ.LK6svvbShsGbEJAJu3QMQMphVEg39SNGpe8Hx4"
+token = ""
 
 client = discord.Client()
 
